@@ -1,0 +1,48 @@
+﻿@model MovieApp.Entity.UserModel
+@{
+    ViewData["Title"] = "DeleteUser";
+}
+
+<h1>DeleteUser</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="fName">UserID:</label>
+        <input type="text" class="form-control" id="fname" asp-for="UserId" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="fName">First Name:</label>
+        <input type="text" class="form-control" id="fname" asp-for="FirstName" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="lName">Last Name:</label>
+        <input type="text" class="form-control" id="lname" asp-for="LastName" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="contact">Contact Number:</label>
+        <input type="text" class="form-control" id="contact" asp-for="Contact" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="text" class="form-control" id="email" asp-for="Email" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="pwd">Password:</label>
+        <input type="text" class="form-control" id="pwd" asp-for="Password" disabled="disabled">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <button type="reset" class="btn btn-secondary">Reset</button>
+</form>
+
+@if (ViewBag.status == "Success")
+{
+    <div class="alert alert-success">@ViewBag.message</div>
+}
+else
+{
+    <div class="alert alert-danger">@ViewBag.message</div>
+}
+
+
