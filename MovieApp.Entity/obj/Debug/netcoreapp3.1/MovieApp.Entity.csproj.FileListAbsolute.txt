@@ -1,0 +1,10 @@
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\bin\Debug\netcoreapp3.1\MovieApp.Entity.deps.json
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\bin\Debug\netcoreapp3.1\MovieApp.Entity.dll
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\bin\Debug\netcoreapp3.1\MovieApp.Entity.pdb
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.csproj.AssemblyReference.cache
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.AssemblyInfoInputs.cache
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.AssemblyInfo.cs
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.csproj.CoreCompileInputs.cache
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.dll
+E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.pdb
