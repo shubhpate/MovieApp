@@ -13,3 +13,18 @@ E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Business\obj\Debug\netcore
 E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.csproj.CopyComplete
 E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.dll
 E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.pdb
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\bin\Debug\netcoreapp3.1\MovieApp.Business.deps.json
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\bin\Debug\netcoreapp3.1\MovieApp.Business.dll
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\bin\Debug\netcoreapp3.1\MovieApp.Business.pdb
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\bin\Debug\netcoreapp3.1\MovieApp.Data.dll
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\bin\Debug\netcoreapp3.1\MovieApp.Entity.dll
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\bin\Debug\netcoreapp3.1\MovieApp.Data.pdb
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\bin\Debug\netcoreapp3.1\MovieApp.Entity.pdb
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.csproj.AssemblyReference.cache
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.AssemblyInfoInputs.cache
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.AssemblyInfo.cs
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.csproj.CoreCompileInputs.cache
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.csproj.CopyComplete
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.dll
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Business\obj\Debug\netcoreapp3.1\MovieApp.Business.pdb
