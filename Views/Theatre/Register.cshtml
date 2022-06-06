@@ -1,0 +1,37 @@
+﻿@model MovieApp.Entity.TheatreModel
+@{
+    ViewData["Title"] = "Register";
+}
+<a asp-action="ShowTheatreDetails" asp-controller="Theatre">Movie Details</a>
+<hr />
+<h1>Register</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="name">TheatreName:</label>
+        <input type="text" class="form-control" id="name" asp-for="TheatreName">
+    </div>
+    <div class="form-group">
+        <label for="lName">Capacity:</label>
+        <input type="text" class="form-control" id="rating" asp-for="Capacity">
+    </div>
+    <div class="form-group">
+        <label for="contact">City:</label>
+        <input type="text" class="form-control" id="Genre" asp-for="City">
+    </div>
+    <div class="form-group">
+        <label for="contact">Description:</label>
+        <input type="text" class="form-control" id="Genre" asp-for="Description">
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+    <button type="reset" class="btn btn-secondary">Reset</button>
+</form>
+
+@if (ViewBag.status == "Success")
+{
+    <div class="alert alert-success">@ViewBag.message</div>
+}
+else
+{
+    <div class="alert alert-danger">@ViewBag.message</div>
+}

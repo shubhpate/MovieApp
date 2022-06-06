@@ -1,0 +1,56 @@
+﻿@model MovieApp.Entity.MovieShowtimeModel
+@{
+    ViewData["Title"] = "UpdateMovieshowTimes";
+}
+<a asp-action="ShowMovieTime" asp-controller="MovieShowTime">View MovieShowTime</a>
+<hr />
+<h1>UpdateMovieshowTimes</h1>
+
+<div class="container">
+    <form method="post">
+        <div class="form-group">
+            <label>ShowId</label>
+            <input asp-for="ShowId" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>MovieId</label>
+            <input asp-for="MovieId" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>TheatreId</label>
+            <input asp-for="TheatreId" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>ShowTime</label>
+            <input type="time" asp-for="ShowTime" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Date</label>
+            <input type="date" asp-for="Date" class="form-control" />
+        </div>
+
+        <hr />
+        <div class="form-group col-sm-3">
+            <input type="submit" value="Update" class="btn btn-lg btn-block btn-primary" />
+        </div>
+        <div>
+            <input type="button" value="Reset" class="btn-secondary" />
+        </div>
+
+        <hr />
+        @if (ViewBag.status == "Success")
+        {
+            <div class="alert alert-success">
+                @ViewBag.message
+            </div>
+        }
+        else if (ViewBag.status == "Error")
+        {
+            <div class="alert alert-danger">
+                @ViewBag.message
+            </div>
+        }
+    </form>
+</div>

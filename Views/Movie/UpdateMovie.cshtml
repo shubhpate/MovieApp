@@ -1,0 +1,33 @@
+﻿@model MovieApp.Entity.MovieModel
+@{
+    ViewData["Title"] = "UpdateMovie";
+}
+
+<h1>UpdateMovie</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="fName">Name:</label>
+        <input type="text" class="form-control" id="name" asp-for="Name">
+    </div>
+    <div class="form-group">
+        <label for="lName">Rating:</label>
+        <input type="text" class="form-control" id="lname" asp-for="Rating">
+    </div>
+    <div class="form-group">
+        <label for="email">Genre:</label>
+        <input type="text" class="form-control" id="email" asp-for="Genre">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Update</button>
+    <button type="reset" class="btn btn-secondary">Reset</button>
+</form>
+
+@if (ViewBag.status == "Success")
+{
+    <div class="alert alert-success">@ViewBag.message</div>
+}
+else
+{
+    <div class="alert alert-danger">@ViewBag.message</div>
+}

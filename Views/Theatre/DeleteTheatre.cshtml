@@ -1,0 +1,41 @@
+﻿@model MovieApp.Entity.TheatreModel
+@{
+    ViewData["Title"] = "DeleteTheatre";
+}
+
+<h1>DeleteTheatre</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="fName">TheatreId:</label>
+        <input type="text" class="form-control" id="fname" asp-for="TheatreId" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="fName">TheatreName:</label>
+        <input type="text" class="form-control" id="fname" asp-for="TheatreName" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="lName">Capacity:</label>
+        <input type="text" class="form-control" id="lname" asp-for="Capacity" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="contact">City:</label>
+        <input type="text" class="form-control" id="contact" asp-for="City" disabled="disabled">
+    </div>
+    <div class="form-group">
+        <label for="email">Description:</label>
+        <input type="text" class="form-control" id="email" asp-for="Description" disabled="disabled">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <button type="reset" class="btn btn-secondary">Reset</button>
+</form>
+
+@if (ViewBag.status == "Success")
+{
+    <div class="alert alert-success">@ViewBag.message</div>
+}
+else
+{
+    <div class="alert alert-danger">@ViewBag.message</div>
+}
