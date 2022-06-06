@@ -8,3 +8,13 @@ E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreap
 E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.csproj.CoreCompileInputs.cache
 E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.dll
 E:\dotNet\Workshop\Day1\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.pdb
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\bin\Debug\netcoreapp3.1\MovieApp.Entity.deps.json
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\bin\Debug\netcoreapp3.1\MovieApp.Entity.dll
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\bin\Debug\netcoreapp3.1\MovieApp.Entity.pdb
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.csproj.AssemblyReference.cache
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.AssemblyInfoInputs.cache
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.AssemblyInfo.cs
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.csproj.CoreCompileInputs.cache
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.dll
+S:\data Structure\MovieCoreApplication (1)\MovieCoreApplication\MovieApp.Entity\obj\Debug\netcoreapp3.1\MovieApp.Entity.pdb
